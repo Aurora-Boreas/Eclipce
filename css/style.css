@@ -25,6 +25,7 @@ img {
 .page-header {
     position: relative;
     background: #330066 url("../img/promo.jpg") no-repeat;
+    background-attachment: fixed;
 }
 
 .page-header__wrapper {
